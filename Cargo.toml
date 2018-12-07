@@ -1,0 +1,9 @@
+[package]
+name = "calc"
+version = "0.1.0"
+authors = ["user1"]
+
+[dependencies]
+gtk = "^0.3.0"
+relm = "^0.11.0"
+relm-derive = "^0.11.0"
